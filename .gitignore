@@ -19,7 +19,9 @@ build/
 docs/_build/
 instance/
 .vscode
-
+*png
+*jpeg
+*jpg
 # Coverage reports
 htmlcov/
 .coverage
